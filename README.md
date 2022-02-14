@@ -4,3 +4,7 @@
 ### 1. [Базовая конфигурация проекта](https://youtu.be/3KXTliungCg "Базовая конфигурация проекта")
 
 [![Golang | Live code | Безопасность | API](https://img.youtube.com/vi/3KXTliungCg/maxresdefault.jpg)](https://youtu.be/3KXTliungCg? "Golang | Live code | Безопасность | API")
+
+### 2. [Базовая авторизация API](https://youtu.be/YTnc4TejX70 "Базовая авторизация API")
+
+[![Golang | Live code | Базовая авторизация | API](https://img.youtube.com/vi/YTnc4TejX70/maxresdefault.jpg)](https://youtu.be/YTnc4TejX70? "Golang | Live code | Базовая авторизация | API")
