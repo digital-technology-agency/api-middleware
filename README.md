@@ -8,3 +8,7 @@
 ### 2. [Базовая авторизация API](https://youtu.be/YTnc4TejX70 "Базовая авторизация API")
 
 [![Golang | Live code | Базовая авторизация | API](https://img.youtube.com/vi/YTnc4TejX70/maxresdefault.jpg)](https://youtu.be/YTnc4TejX70? "Golang | Live code | Базовая авторизация | API")
+
+### 3. [Сервис авторизация API](https://youtu.be/YTnc4TejX70 "Сервис авторизация API")
+
+[![Golang | Live code | Сервис авторизация | API](https://img.youtube.com/vi/N64T4DRx8T8/maxresdefault.jpg)](https://youtu.be/N64T4DRx8T8? "Golang | Live code | Сервис авторизация | API")
