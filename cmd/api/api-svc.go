@@ -2,8 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
-	"github.com/digital-technology-agency/api-middleware/pkg/utils"
 	"log"
 	"net/http"
 	"strings"
@@ -11,7 +9,6 @@ import (
 )
 
 var (
-	address  = utils.GetEnv("PORT", "9999")
 	authData = auth{
 		User:     "user",
 		Password: "user123"}
@@ -32,7 +29,7 @@ func main() {
 	mux.HandleFunc("/api/v1", health)
 	mux.HandleFunc("/api/v1/protected", basicAuth(protected))
 	s := &http.Server{
-		Addr:         fmt.Sprintf(":%s", address),
+		Addr:         ":9999",
 		Handler:      mux,
 		IdleTimeout:  time.Minute,
 		ReadTimeout:  time.Second * 10,
